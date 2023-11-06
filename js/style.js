@@ -5,4 +5,4 @@ const square = document.getElementsByClassName('square');
 
 square[4].innerHTML = players[0].Symbol;
 
-square[1].innerHTML = players[1].symbol;
+square[1].innerHTML = players[1].Symbol;
